@@ -1,0 +1,26 @@
+SISTEMAX - COMO HACER QUE FUNCIONE 100% EN GITHUB
+
+ESTE ZIP YA ESTA COMPILADO Y FUNCIONA. NO NECESITAS HACER npm install
+
+PASOS:
+
+1. Descomprimi el ZIP
+2. Vas a ver un archivo index.html - ESE ES TU SITIO COMPLETO YA COMPILADO
+3. Entra a github.com -> New repository -> Nombre: sistemax -> Create repository
+4. Click en "uploading an existing file"
+5. Arrastra SOLO el index.html
+6. Commit changes
+7. Anda a Settings -> Pages -> Branch: main -> Save
+8. En 1 minuto tu tienda esta online y FUNCIONA
+
+Si queres editar el codigo despues:
+- La carpeta src/ tiene App.tsx con todo el codigo fuente
+- Necesitas instalar Node.js de nodejs.org
+- Despues npm install y npm run dev
+
+Pero para que FUNCIONE YA, solo subi el index.html a GitHub Pages.
+
+DATOS YA CONFIGURADOS:
+- WhatsApp: 3734525075
+- Alias MP: mateo.tomas2026
+- Sin CBU ni titular
