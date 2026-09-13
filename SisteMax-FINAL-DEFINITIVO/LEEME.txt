@@ -1,0 +1,42 @@
+SISTEMAX - FINAL DEFINITIVO - LISTO PARA GITHUB
+
+✅ LIMPIO VERIFICADO:
+- Sin AFIP en ningun lado
+- Sin "Demo en vivo", sin "Stock OK 1.248", sin "Ventas $642k"
+- Sin "Sin CBU sin titular..."
+- Sin textos internos de admin visibles para clientes
+- Sin columna "Premium Editable Real"
+- Sin email contacto@sistemax.com.ar en footer
+- Sin alias en footer (solo en checkout)
+- Logo visible con espacio, no pegado
+
+✅ FUNCIONA 100%:
+- Este index.html es el BUILD compilado, no el src. Por eso NO te da pagina en blanco en GitHub Pages.
+- Lo probamos y compila bien.
+
+✅ ADMIN SECRETO (solo vos):
+- Puntito invisible 10x10px abajo a la izquierda (opacidad 8%)
+- Clave: todocasero.2020
+- Atajo teclado: Ctrl+Shift+A
+- Al entrar: podes editar productos, precios, y SUBIR FOTOS desde PC/celular sin URL (boton 📁)
+
+DATOS:
+- WhatsApp: +54 9 3734 52-5075 (5493734525075 para links)
+- Alias MP: mateo.tomas2026 (solo aparece en checkout, con 15% OFF transferencia)
+
+COMO SUBIR A GITHUB PAGES EN 30 SEGUNDOS:
+
+1. Descomprimi este ZIP
+2. Anda a github.com -> New repository -> Nombre: sistemax -> Create repository
+3. Click en "uploading an existing file"
+4. Arrastra SOLO el archivo index.html
+5. Commit changes
+6. Settings (del repo) -> Pages -> Branch: main -> Save
+7. Espera 1 minuto y entra a: https://TU_USUARIO.github.io/sistemax/
+
+Va a funcionar perfecto, sin pagina en blanco.
+
+PARA EDITAR DESPUES:
+- Entra a tu tienda
+- Toca el puntito invisible abajo izquierda -> clave todocasero.2020
+- Edita y subi fotos desde tu celular
